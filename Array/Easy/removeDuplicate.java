@@ -1,3 +1,5 @@
+// remove duplicate from sorted array
+
 class Solution {
     public int removeDuplicates(int[] nums) {
         
