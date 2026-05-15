@@ -1,4 +1,4 @@
-// remove duplicate from sorted array
+// remove duplicate from sorted array (using 2-pointer approach)
 
 class Solution {
     public int removeDuplicates(int[] nums) {
